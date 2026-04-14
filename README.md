@@ -1,5 +1,4 @@
-[jv.html](https://github.com/user-attachments/files/26719828/jv.html)
-<!DOCTYPE html>
+[index.html](https://github.com/user-attachments/files/26720201/index.html)[Uploading ind<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
@@ -383,4 +382,4 @@ Game.generateCats();
 </script>
 
 </body>
-</html>
+</html>ex.html…]()
